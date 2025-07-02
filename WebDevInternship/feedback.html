@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <title><head><h1>STUDENT'S FEEDBACK</h1></head></title>
+    <style>
+        body{background-color: pink;}
+        table, th, td {
+          border:1px solid black;
+        }
+    </style>
+    <body>
+        <table style="width:100%">
+               <tr> <legend><CENTER> PERSONAL DETAILS</CENTER></legend></tr>
+                <TR>
+                    <TH>CHOOSE THE SUBJECT</TH>
+                    <TD>Math<input type="radio" name="sub" value="Math"> 
+                        Physics<input type="radio" name="sub" value="Physics">
+                        Chemistry<input type="radio" name="sub" value="Chemistry"><BR></TD>
+                        </TR>
+                <tr>
+                    <th>FACULTY NAME:</th>
+                    <TD><input type="text" id="name"/></TD>
+                </tr>
+                <tr><TH>QUALITIES:</TH>
+                <TD>GOOD INTERACTION WITH STUDENT<input type="checkbox" name="QUALITIES" value="INTERACTION">
+                    <BR>KNOWLEDGE ABOUT THE SUBJECT:<input type="checkbox" name="QUALITIES" value="KNOWLEDGE">
+                        <BR>GOOD ATTITUDE:<input type="checkbox" name="QUALITIES" value="ATTITUDE">
+                            </TD></tr>
+                            <TR>
+                               <TH> SUPPORT TOWARDS CO-CURRICULAR:</TH>
+                                <TD><select name="INCOME">
+                                    salary<optgroup name="CO" value="AC">
+                                        <option>BAD</option>
+                                        <option>MODERATE</option>
+                                        <option>GOOD</option>
+                                    </optgroup>
+                                </select></TD>
+                            </TR>
+                            <tr>
+                                <TH>IMPROVEMENT NEEDED IN</TH>
+                                <TD> <input list="IMPROVE">
+                                    <datalist id="IMPROVE">
+                                        <option>ACADEMIC</option>
+                                        <option>CO-CURRICULAR</option>
+                                    </datalistid>
+                </TD>
+                            </TR>
+                            <tr>
+                                <th>ADDITIONAL FEEDBACK</th>
+                                <TD><TEXTAREA id="FEED" cols="60" rows="5">
+                                </TEXTAREA><BR></TD>
+                            </tr>
+                        </table>
+                        <center><input type="submit" value="Click to enter data">
+                        <input type="reset" value="Reset the values">
+</body></center>
+</html>

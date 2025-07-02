@@ -1,0 +1,11 @@
+body{background-color: rgb(62, 60, 60) ;}
+            h1{background-color:black;color: rgb(254, 3, 3);}
+            h2{background-color: rgb(62, 60, 60) ;font-size: larger;color: white;}
+            #name{background-color:black;color: white;}
+            #phone{background-color:black;color: white;}
+            #mail{background-color:black;color: white;}
+            #addr{background-color:black;color: aqua;}
+            ol,.school{background-color: bisque;color: brown;font-size: larger;}
+            ol,.college{background-color: bisque;color: brown;font-size: larger;}
+            #sm{background-color:black;color: rgb(254, 3, 3);font-size: x-large;}
+            #ms{background-color:black;color: rgb(254, 3, 3);font-size: x-large;}

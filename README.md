@@ -1,6 +1,6 @@
 # 🌐 HybWebDev Project
 
-This repository contains a collection of web development projects created during a **Web Development Internship** conducted at **[MSRIT]**. The project showcases fundamental front-end development skills using **HTML, CSS, and JavaScript**.
+This repository contains a collection of web development projects created during a **Web Development Internship** conducted at **MSRIT**. The project showcases fundamental front-end development skills using **HTML, CSS, and JavaScript**.
 
 ---
 
@@ -78,17 +78,17 @@ All quizzes are styled with `styles.css`.
 ## 📚 Internship Details
 
 - **Internship Title**: Web Development Internship  
-- **Organized By**: [ISE Staff]  
-- **Institution**: [MSRIT]  
-- **Duration**: [Oct 2023 - Nov 2023]
+- **Organized By**: **ISE Staff**  
+- **Institution**: **MSRIT**  
+- **Duration**: **Oct 2023 - Nov 2023**
 
 ---
 
 ## 👨‍💻 Author
 
-**[Nikhilesh N Marali]**  
+**Nikhilesh N Marali**  
 Web Development Intern  
-[MSRIT]  
+**MSRIT**  
 - GitHub: [https://github.com/cxxc7](https://github.com/cxxc7)  
 - Email: [nikhileshmarali7@gmail.com](mailto:nikhileshmarali7@gmail.com)
 
